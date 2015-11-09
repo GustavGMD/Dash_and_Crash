@@ -21,9 +21,11 @@ public class myLobbyManager : NetworkLobbyManager {
 
     public Canvas connectionCanvas;
     public Canvas lobbyCanvas;
+    public Canvas startButtonCanvas;
     public Text hostIP;
     public Text[] scoreDisplay;
     public InputField connectionIP;
+    public Button startButton;
 
     private string _LastIPKey = "LastIP";
     private GameObject _scoreboardModel;
@@ -35,7 +37,7 @@ public class myLobbyManager : NetworkLobbyManager {
         globalScore = new Dictionary<int, int>();
         defeatedList = new List<int>();
         _spawnedLobbyGUIs = new List<GameObject>();
-        
+
         string __address;
         if (PlayerPrefs.HasKey(_LastIPKey))
         {
@@ -381,4 +383,14 @@ public class myLobbyManager : NetworkLobbyManager {
         PlayerPrefs.SetString(_LastIPKey, p_string);
         Debug.Log("ended editing");
     }    
+
+    public void EnableStartButton()
+    {
+        startButtonCanvas.gameObject.SetActive(true);
+        startButton.onClick.AddListener(delegate
+        {
+            //start the game here
+            Debug.Log("started the game");
+        });
+    }
 }
