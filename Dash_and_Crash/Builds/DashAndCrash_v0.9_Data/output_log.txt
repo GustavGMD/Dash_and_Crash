@@ -1,0 +1,56 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.144 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.046 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2714 -> priority: 1 
+  Thread -> id: 159c -> priority: 1 
+Platform assembly: D:\Projetos\Unity 5\Dash_and_Crash\Builds\DashAndCrash_v0.9_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2674 -> priority: 1 
+  Thread -> id: ca8 -> priority: 1 
